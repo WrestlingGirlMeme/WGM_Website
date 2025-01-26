@@ -19,8 +19,9 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
           BUY $WGM NOW
         </h4>
-        <a href="#explore">
+        
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
+          <a href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump">
           <img
             src="/headset.svg"
             alt="headset"
@@ -29,8 +30,9 @@ const Footer = () => (
           <span className="font-normal text-[16px] text-white">
             Be a part of the movement
           </span>
+            <a/>
         </button>
-          <a/>
+          
       </div>
 
       <div className="flex flex-col">
