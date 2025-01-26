@@ -24,6 +24,7 @@ const Footer = () => (
             src="/headset.svg"
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
+            href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump"
           />
           <span className="font-normal text-[16px] text-white">
             Buy @ Raydium
