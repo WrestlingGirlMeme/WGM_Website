@@ -20,7 +20,7 @@ const Footer = () => (
           Buy $WGM ->
         </h4>
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
-          <link rel="icon" href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump" />
+         
           <img
             src="/headset.svg"
             alt="headset"
