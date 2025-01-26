@@ -19,7 +19,7 @@ const Footer = () => (
         <h4 className="font-bold md:text-[64px] text-[44px] text-white">
           BUY $WGM NOW
         </h4>
-        <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]"href="#explore">
+        <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
           <img
             src="/headset.svg"
             alt="headset"
