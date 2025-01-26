@@ -21,16 +21,17 @@ const Footer = () => (
         </h4>
         
         <button type="button" className="flex items-center h-fit py-4 px-6 bg-[#25618B] rounded-[32px] gap-[12px]">
-          <a href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump">
+        
           <img
             src="/headset.svg"
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
+            href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump"
           />
           <span className="font-normal text-[16px] text-white">
             Be a part of the movement
           </span>
-            <a/>
+            
         </button>
           
       </div>
