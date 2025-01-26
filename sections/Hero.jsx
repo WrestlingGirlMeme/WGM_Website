@@ -23,7 +23,7 @@ const Hero = () => (
           className="flex flex-row justify-center items-center"
         >
           <h1 className={styles.heroHeading}>M</h1>
-          <div className={styles.heroEText} />
+          <div className={styles.heroDText} />
           <h1 className={styles.heroHeading}>ME</h1>
         </motion.div>
       </div>
