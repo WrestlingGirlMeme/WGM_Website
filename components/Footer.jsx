@@ -25,7 +25,8 @@ const Footer = () => (
             alt="headset"
             className="w-[24px] h-[24px] object-contain"
           />
-          <span className="font-normal text-[16px] text-white">
+          <span className="font-normal text-[16px] text-white"
+                href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump">
             Enter Metaverse
           </span>
         </button>
