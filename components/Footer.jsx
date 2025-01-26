@@ -29,6 +29,7 @@ const Footer = () => (
           <span className="font-normal text-[16px] text-white">
             Buy @ Raydium
           </span>
+          <link href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump" />
         </button>
       </div>
 
