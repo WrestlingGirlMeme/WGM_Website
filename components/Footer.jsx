@@ -6,6 +6,30 @@ import { socials } from '../constants';
 import styles from '../styles';
 import { footerVariants } from '../utils/motion';
 
+// Example socials array
+export const socials = [
+  {
+    name: 'twitter',
+    url: 'https://twitter.com/yourprofile',
+    imgUrl: '/twitter.svg',
+  },
+  {
+    name: 'linkedin',
+    url: 'https://linkedin.com/in/yourprofile',
+    imgUrl: '/linkedin.svg',
+  },
+  {
+    name: 'instagram',
+    url: 'https://instagram.com/yourprofile',
+    imgUrl: '/instagram.svg',
+  },
+  {
+    name: 'facebook',
+    url: 'https://facebook.com/yourprofile',
+    imgUrl: '/facebook.svg',
+  },
+];
+
 const Footer = () => (
   <motion.footer
     variants={footerVariants}
@@ -46,9 +70,9 @@ const Footer = () => (
 
           <div className="flex gap-4">
             {socials.map((social) => (
-              <a key={social.name} href={social.link} target="_blank" rel="noopener noreferrer">
+              <a key={social.name} href={social.url} target="_blank" rel="noopener noreferrer">
                 <img
-                  src={social.url}
+                  src={social.imgUrl}
                   alt={social.name}
                   className="w-[24px] h-[24px] object-contain cursor-pointer"
                 />
