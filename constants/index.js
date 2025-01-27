@@ -84,11 +84,11 @@ export const socials = [
     link: 'https://www.dextools.io/app/en/token/wgm?t=1737953794872',
   },
   {
-    name: 'instagram',
-    url: '/instagram.svg',
+    name: 'coinmarketcap',
+    url: '/coinmarketcap-1.svg',
   },
   {
-    name: 'facebook',
-    url: '/facebook.svg',
+    name: 'coingecko',
+    url: '/coingecko-1',
   },
 ];
