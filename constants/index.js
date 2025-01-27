@@ -34,7 +34,7 @@ export const startingFeatures = [
   'Write down your seed-phrase and store it on a safe place',
   'Send Sol to your Wallet from a exchange like Binance',
   'Send Sol to your Wallet from a exchange like Binance',
-  
+  <a href="https://solscan.io/token/4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump"></a>
 ];
 
 export const newFeatures = [
