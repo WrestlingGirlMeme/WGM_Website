@@ -34,11 +34,7 @@ export const startingFeatures = [
   'Write down your seed-phrase and store it on a safe place',
   'Send Sol to your Wallet from a exchange like Binance',
   'Send Sol to your Wallet from a exchange like Binance',
-   {
-    name: 'dextools',
-    url: '/dextools.svg',
-    link: 'https://www.dextools.io/app/en/token/wgm?t=1737953794872',
-  },
+  
 ];
 
 export const newFeatures = [
