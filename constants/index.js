@@ -79,8 +79,9 @@ export const socials = [
     
   },
   {
-    name: 'linkedin',
-    url: '/linkedin.svg',
+    name: 'dextools',
+    url: '/dextools.svg',
+    link: 'https://www.dextools.io/app/en/token/wgm?t=1737953794872',
   },
   {
     name: 'instagram',
