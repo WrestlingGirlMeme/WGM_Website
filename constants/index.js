@@ -98,7 +98,7 @@ export const socials = [
   },
   {
     name: 'solscan',
-    url: '/solana.svg',
+    url: '/solana1.svg',
     link: 'https://solscan.io/token/4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump',
   },
 ];
