@@ -89,6 +89,6 @@ export const socials = [
   },
   {
     name: 'coingecko',
-    url: '/coingecko-1',
+    url: '/coingecko-1.svg',
   },
 ];
