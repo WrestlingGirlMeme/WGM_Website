@@ -96,4 +96,9 @@ export const socials = [
     name: 'coingecko',
     url: '/coingecko-1.svg',
   },
+  {
+    name: 'solscan',
+    url: '/solana.svg',
+    link: 'https://solscan.io/token/4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump',
+  },
 ];
