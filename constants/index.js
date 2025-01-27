@@ -30,9 +30,15 @@ export const exploreWorlds = [
 ];
 
 export const startingFeatures = [
-  'Find a world that suits you and you want to enter',
-  'Enter the world by reading basmalah to be safe',
-  'No need to beat around the bush, just stay on the gas and have fun',
+  'Download Phantom Wallet',
+  'Write down your seed-phrase and store it on a safe place',
+  'Send Sol to your Wallet from a exchange like Binance',
+  'Send Sol to your Wallet from a exchange like Binance',
+   {
+    name: 'dextools',
+    url: '/dextools.svg',
+    link: 'https://www.dextools.io/app/en/token/wgm?t=1737953794872',
+  },
 ];
 
 export const newFeatures = [
