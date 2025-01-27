@@ -75,7 +75,7 @@ export const socials = [
    {
     name: 'twitter',
     url: '/twitter.svg',
-    
+    url: 'https://x.com/wgmcoin'
   },
   {
     name: 'linkedin',
