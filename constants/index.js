@@ -33,8 +33,10 @@ export const startingFeatures = [
   'Download Phantom Wallet',
   'Write down your seed-phrase and store it on a safe place',
   'Send Sol to your Wallet from a exchange like Binance',
-  'Send Sol to your Wallet from a exchange like Binance',
-  <a href="https://solscan.io/token/4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump">buy</a>
+   <a href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump">Click here to go to raydium </a>
+  'Enter the Amount of Sol what you want to invest and click swap',
+    'sign the transaction in your wallet',
+ 
 ];
 
 export const newFeatures = [
