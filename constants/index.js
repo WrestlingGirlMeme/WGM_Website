@@ -31,11 +31,12 @@ export const exploreWorlds = [
 
 export const startingFeatures = [
   'Download Phantom Wallet',
-  'Write down your seed-phrase and store it on a safe place',
+  'Write down your seed-phrase and store it at a safe place',
   'Send Sol to your Wallet from a exchange like Binance',
    <a href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump">Click here to go to raydium </a>,
+  'Connect your Wallet with Raydium',
   'Enter the Amount of Sol what you want to invest and click swap',
-    'sign the transaction in your wallet',
+  'sign the transaction in your wallet',
  
 ];
 
