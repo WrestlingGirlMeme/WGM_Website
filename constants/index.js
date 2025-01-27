@@ -5,27 +5,27 @@ export const exploreWorlds = [
   {
     id: 'world-1',
     imgUrl: '/planet-01.png',
-    title: 'Chillguy',
+    title: '$WGM vs. Chillguy',
   },
   {
     id: 'world-2',
     imgUrl: '/planet-02.png',
-    title: 'Pepe',
+    title: '$WGM vs. Pepe',
   },
   {
     id: 'world-3',
     imgUrl: '/planet-03.png',
-    title: 'Shiba Inu',
+    title: '$WGM vs. Shiba Inu',
   },
   {
     id: 'world-4',
     imgUrl: '/planet-04.png',
-    title: 'Doge Coin',
+    title: '$WGM vs. Doge Coin',
   },
   {
     id: 'world-5',
     imgUrl: '/floki1.png',
-    title: 'Floki',
+    title: '$WGM vs. Floki',
   },
 ];
 
