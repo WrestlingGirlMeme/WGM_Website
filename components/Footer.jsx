@@ -42,7 +42,7 @@ const Footer = () => (
             Wrestling Girl Meme
           </h4>
           <p className="font-normal text-[14px] text-white opacity-50">
-            Copyright © 2024 - 2025 Wrestling Girl Meme. All rights reserved.
+            Copyright © 2024 - 2025 $WGM Coin. All rights reserved.
           </p>
 
           <div className="flex gap-4">
