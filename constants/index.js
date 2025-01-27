@@ -75,6 +75,7 @@ export const socials = [
    {
     name: 'twitter',
     url: '/twitter.svg',
+    link: 'https://x.com/wgmcoin',
     
   },
   {
