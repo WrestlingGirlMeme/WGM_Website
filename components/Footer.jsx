@@ -51,6 +51,9 @@ const Footer = () => (
                 className="w-[24px] h-[24px] object-contain cursor-pointer"
               />
             ))}
+            <a href="https://raydium.io/swap/?inputMint=sol&outputMint=4arWzUHj1ecgyQbKq8Kop76JFnKoLLuxREc428gmpump" target="_blank" rel="noopener noreferrer" className="text-white">
+            Swap on Raydium
+        </a>
           </div>
         </div>
       </div>
