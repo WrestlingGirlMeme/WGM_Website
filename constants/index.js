@@ -24,7 +24,7 @@ export const exploreWorlds = [
   },
   {
     id: 'world-5',
-    imgUrl: '/planet-05.png',
+    imgUrl: '/floki1.png',
     title: 'Floki',
   },
 ];
