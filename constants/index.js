@@ -74,8 +74,8 @@ export const insights = [
 export const socials = [
    {
     name: 'twitter',
-    url: 'https://twitter.com',
-    imgUrl: '/twitter.svg',
+    url: '/twitter.svg',
+    
   },
   {
     name: 'linkedin',
