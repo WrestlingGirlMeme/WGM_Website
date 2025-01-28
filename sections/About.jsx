@@ -24,14 +24,11 @@ const About = () => (
       >
         <span className="font-extrabold text-white">$WGM</span> (Wrestling Girl Meme Coin) is gaining momentum, and NOW is the time to get in on the action! 💥{' '}
         <span className="font-extrabold text-white">
-          Join the fun and be part of the next big meme coin movement! 🤼‍♀️✨
+          Join the fun and be part of the next big meme coin movement!
         </span>{' '}
-        of today, using only{' '}
-        <span className="font-extrabold text-white">VR</span> devices you can
-        easily explore the metaverse world you want, turn your dreams into
-        reality. Let's{' '}
-        <span className="font-extrabold text-white">explore</span> the madness
-        of the metaverse by scrolling down
+        Get ready for a wild ride as we smash our way to the top! {' '}
+        <span className="font-extrabold text-white">$WGM</span> is here to dominate the meme coin charts and spread joy across the crypto world. Watch as our meme queen does what she does best{' '}
+        <span className="font-extrabold text-white">SMASHING</span> everything in her path, just like how we're going to smash expectations and make waves in the meme coin scene!
       </motion.p>
 
       <motion.img
