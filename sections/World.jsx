@@ -35,7 +35,7 @@ const World = () => (
           <img src="pepe.png" alt="people" className="w-full h-full" />
         </div>
 
-        <div className="absolute top-10 right+30 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
+        <div className="absolute top-10 right-50 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
           <img src="floki2.png" alt="people" className="w-full h-full" /> 
            </div>
 
