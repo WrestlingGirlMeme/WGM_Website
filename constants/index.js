@@ -43,13 +43,13 @@ export const startingFeatures = [
 export const newFeatures = [
   {
     imgUrl: '/community.svg',
-    title: 'A new world',
+    title: 'The Community',
     subtitle:
         'we have the latest update with new world for you to try never mind',
   },
   {
     imgUrl: '/wrestling.svg',
-    title: 'A new world',
+    title: 'The Smash',
     subtitle:
         'In the latest update, your eyes are narrow, making the world more realistic than ever',
   },
