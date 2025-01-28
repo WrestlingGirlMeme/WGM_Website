@@ -49,7 +49,7 @@ export const newFeatures = [
   },
   {
     imgUrl: '/wrestling.svg',
-     'fbg',
+    
     subtitle:
         'In the latest update, your eyes are narrow, making the world more realistic than ever',
   },
