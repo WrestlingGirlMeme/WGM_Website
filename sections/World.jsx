@@ -39,7 +39,7 @@ const World = () => (
           <img src="floki2.png" alt="people" className="w-full h-full" /> 
            </div>
 
-        <div className="absolute top-10 left-5 w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
+        <div className="absolute top-10 left-[5%] w-[70px] h-[70px] p-[6px] rounded-full bg-[#5D6680]">
           <img src="/trump.png" alt="people" className="w-full h-full" />
         </div>
 
